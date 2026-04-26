@@ -1,0 +1,14 @@
+MODE = "paper"   # paper أو live
+
+EXCHANGE = "mexc"
+TIMEFRAME = "1m"
+
+MAX_SYMBOLS = 20
+PRICE_LIMIT = 0.001
+
+START_BALANCE = 100
+RISK_PER_TRADE = 0.1  # 10%
+
+TRAILING_STOP = 0.02  # 2%
+
+LOOP_INTERVAL = 10  # ثواني
